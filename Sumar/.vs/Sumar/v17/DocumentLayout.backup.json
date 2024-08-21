@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\naole\\OneDrive\\MetyProgEst\\Sumar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3EE73C18-2D75-45B0-B6B1-D360828CBD2D}|Sumar\\Sumar.csproj|c:\\users\\naole\\onedrive\\metyprogest\\sumar\\sumar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EE73C18-2D75-45B0-B6B1-D360828CBD2D}|Sumar\\Sumar.csproj|solutionrelative:sumar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\naole\\OneDrive\\MetyProgEst\\Sumar\\Sumar\\Program.cs",
+              "RelativeDocumentMoniker": "Sumar\\Program.cs",
+              "ToolTip": "C:\\Users\\naole\\OneDrive\\MetyProgEst\\Sumar\\Sumar\\Program.cs*",
+              "RelativeToolTip": "Sumar\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T21:16:14.484Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
