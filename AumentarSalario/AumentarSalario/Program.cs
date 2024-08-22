@@ -11,11 +11,11 @@ namespace Salario
             double salario, nuevoSalario;
 
             Console.Write("Ingrese su nombre: ");
-            nombre = Console.ReadLine();
+            nombre = Console.ReadLine() ??"";
             Console.Write("Ingrese su cargo: ");
-            cargo = Console.ReadLine();
+            cargo = Console.ReadLine() ?? "";
             Console.Write("Ingrese su salario: ");
-            salario = Convert.ToDouble(Console.ReadLine());
+            salario = Convert.ToDouble(Console.ReadLine() ??"");
 
 
             nuevoSalario = salario + (0.10 * salario);
