@@ -13,7 +13,7 @@ namespace Salario
             Console.Write("Ingrese su nombre: ");
             nombre = Console.ReadLine() ??"";
             Console.Write("Ingrese su cargo: ");
-            cargo = Console.ReadLine() ?? "";
+            cargo = Console.ReadLine() ??"";
             Console.Write("Ingrese su salario: ");
             salario = Convert.ToDouble(Console.ReadLine() ??"");
 
