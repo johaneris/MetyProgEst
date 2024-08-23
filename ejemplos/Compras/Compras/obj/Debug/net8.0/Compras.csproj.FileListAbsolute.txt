@@ -1,0 +1,15 @@
+C:\Users\naole\OneDrive\MetyProgEst\ejemplos\Compras\Compras\bin\Debug\net8.0\Compras.exe
+C:\Users\naole\OneDrive\MetyProgEst\ejemplos\Compras\Compras\bin\Debug\net8.0\Compras.deps.json
+C:\Users\naole\OneDrive\MetyProgEst\ejemplos\Compras\Compras\bin\Debug\net8.0\Compras.runtimeconfig.json
+C:\Users\naole\OneDrive\MetyProgEst\ejemplos\Compras\Compras\bin\Debug\net8.0\Compras.dll
+C:\Users\naole\OneDrive\MetyProgEst\ejemplos\Compras\Compras\bin\Debug\net8.0\Compras.pdb
+C:\Users\naole\OneDrive\MetyProgEst\ejemplos\Compras\Compras\obj\Debug\net8.0\Compras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naole\OneDrive\MetyProgEst\ejemplos\Compras\Compras\obj\Debug\net8.0\Compras.AssemblyInfoInputs.cache
+C:\Users\naole\OneDrive\MetyProgEst\ejemplos\Compras\Compras\obj\Debug\net8.0\Compras.AssemblyInfo.cs
+C:\Users\naole\OneDrive\MetyProgEst\ejemplos\Compras\Compras\obj\Debug\net8.0\Compras.csproj.CoreCompileInputs.cache
+C:\Users\naole\OneDrive\MetyProgEst\ejemplos\Compras\Compras\obj\Debug\net8.0\Compras.sourcelink.json
+C:\Users\naole\OneDrive\MetyProgEst\ejemplos\Compras\Compras\obj\Debug\net8.0\Compras.dll
+C:\Users\naole\OneDrive\MetyProgEst\ejemplos\Compras\Compras\obj\Debug\net8.0\refint\Compras.dll
+C:\Users\naole\OneDrive\MetyProgEst\ejemplos\Compras\Compras\obj\Debug\net8.0\Compras.pdb
+C:\Users\naole\OneDrive\MetyProgEst\ejemplos\Compras\Compras\obj\Debug\net8.0\Compras.genruntimeconfig.cache
+C:\Users\naole\OneDrive\MetyProgEst\ejemplos\Compras\Compras\obj\Debug\net8.0\ref\Compras.dll
