@@ -10,8 +10,19 @@ namespace Calcularnota.clases
     {
 
         public double Nota1 { get; set; }
-        public double Nota2 { get; set;
+        public double Nota2 { get; set; }
+        public double Nota3 { get; set; }
 
-        public
+        public double calcularNota()
+        {
+            return (this.Nota1 + this.Nota2 + this.Nota3) / 3;
+        }
+
+        public Nota()
+        {
+
+        }
+
+
     }
 }

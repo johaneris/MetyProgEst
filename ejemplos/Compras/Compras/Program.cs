@@ -13,16 +13,16 @@ namespace Compras
             Factura fact = new Factura();
 
             //crear variables de entra
-
-            string producto = null; //todas las variables inician con un valor, asigna null para que este vacio
+            int? numero = null;
+            string? producto = null; //todas las variables inician con un valor, asigna null para que este vacio
             double precio = 0, monto;
             int cantidad = 0;
             Console.Write("Producto: ");
             producto = Console.ReadLine();
             Console.Write("Precio: "); //para espacio basicamente
-            precio = double.Parse(Console.ReadLine()); // es lo mismo que el convert, metodo para convertir 
+            precio = double.Parse(Console.ReadLine() ?? ""); // es lo mismo que el convert, metodo para convertir 
             Console.Write("Cantidad: ");
-            cantidad = int.Parse(Console.ReadLine());
+            cantidad = int.Parse(Console.ReadLine() ?? "");
 
             fact.Producto = producto;
             fact.Precio = precio;
@@ -38,8 +38,8 @@ namespace Compras
             Console.WriteLine($"{producto}"); //intercola
             Console.WriteLine($"{precio}"); //intercola
             Console.WriteLine($"{cantidad}"); //intercola
-            Console.WriteLine($"{monto}"); //intercola
-            
-        }
-    }
-}
+            Console.WriteLine($"{monto}"); //intercola    
+                                                          
+        }                                                 
+    }                                                     
+}                                                         
