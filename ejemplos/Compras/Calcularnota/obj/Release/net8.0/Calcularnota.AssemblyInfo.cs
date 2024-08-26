@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Calcularnota")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c4f511c0623e77ebd2d95b12eaf89444d856f751")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+131889926dbcd62e251f2e52aa2e13fe4f0443ab")]
 [assembly: System.Reflection.AssemblyProductAttribute("Calcularnota")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Calcularnota")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -3,20 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\naole\\OneDrive\\MetyProgEst\\ejemplos\\Compras\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ED0AE7A6-7217-4661-8BE0-0E370F48D32B}|Calcularnota\\Calcularnota.csproj|c:\\users\\naole\\onedrive\\metyprogest\\ejemplos\\compras\\calcularnota\\calcularnota.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{ED0AE7A6-7217-4661-8BE0-0E370F48D32B}|Calcularnota\\Calcularnota.csproj|solutionrelative:calcularnota\\calcularnota.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{614E196C-98D1-441B-B1D3-C8106A985877}|Calculadora\\Calculadora.csproj|c:\\users\\naole\\onedrive\\metyprogest\\ejemplos\\compras\\calculadora\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{614E196C-98D1-441B-B1D3-C8106A985877}|Calculadora\\Calculadora.csproj|solutionrelative:calculadora\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8238732-9101-4362-822F-D61510BA4143}|Compras\\Compras.csproj|c:\\users\\naole\\onedrive\\metyprogest\\ejemplos\\compras\\compras\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8238732-9101-4362-822F-D61510BA4143}|Compras\\Compras.csproj|solutionrelative:compras\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{614E196C-98D1-441B-B1D3-C8106A985877}|Calculadora\\Calculadora.csproj|c:\\users\\naole\\onedrive\\metyprogest\\ejemplos\\compras\\calculadora\\clases\\calcular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{614E196C-98D1-441B-B1D3-C8106A985877}|Calculadora\\Calculadora.csproj|solutionrelative:calculadora\\clases\\calcular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E8238732-9101-4362-822F-D61510BA4143}|Compras\\Compras.csproj|c:\\users\\naole\\onedrive\\metyprogest\\ejemplos\\compras\\compras\\clases\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E8238732-9101-4362-822F-D61510BA4143}|Compras\\Compras.csproj|solutionrelative:compras\\clases\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{E8238732-9101-4362-822F-D61510BA4143}|Compras\\Compras.csproj|c:\\users\\naole\\onedrive\\metyprogest\\ejemplos\\compras\\compras\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8238732-9101-4362-822F-D61510BA4143}|Compras\\Compras.csproj|solutionrelative:compras\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E8238732-9101-4362-822F-D61510BA4143}|Compras\\Compras.csproj|c:\\users\\naole\\onedrive\\metyprogest\\ejemplos\\compras\\compras\\compras.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{E8238732-9101-4362-822F-D61510BA4143}|Compras\\Compras.csproj|solutionrelative:compras\\compras.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED0AE7A6-7217-4661-8BE0-0E370F48D32B}|Calcularnota\\Calcularnota.csproj|c:\\users\\naole\\onedrive\\metyprogest\\ejemplos\\compras\\calcularnota\\calcularnota.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{ED0AE7A6-7217-4661-8BE0-0E370F48D32B}|Calcularnota\\Calcularnota.csproj|solutionrelative:calcularnota\\calcularnota.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED0AE7A6-7217-4661-8BE0-0E370F48D32B}|Calcularnota\\Calcularnota.csproj|c:\\users\\naole\\onedrive\\metyprogest\\ejemplos\\compras\\calcularnota\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED0AE7A6-7217-4661-8BE0-0E370F48D32B}|Calcularnota\\Calcularnota.csproj|solutionrelative:calcularnota\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,6 +43,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\naole\\OneDrive\\MetyProgEst\\ejemplos\\Compras\\Calculadora\\Program.cs",
+              "RelativeDocumentMoniker": "Calculadora\\Program.cs",
+              "ToolTip": "C:\\Users\\naole\\OneDrive\\MetyProgEst\\ejemplos\\Compras\\Calculadora\\Program.cs",
+              "RelativeToolTip": "Calculadora\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T23:40:17.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calcular.cs",
+              "DocumentMoniker": "C:\\Users\\naole\\OneDrive\\MetyProgEst\\ejemplos\\Compras\\Calculadora\\clases\\Calcular.cs",
+              "RelativeDocumentMoniker": "Calculadora\\clases\\Calcular.cs",
+              "ToolTip": "C:\\Users\\naole\\OneDrive\\MetyProgEst\\ejemplos\\Compras\\Calculadora\\clases\\Calcular.cs",
+              "RelativeToolTip": "Calculadora\\clases\\Calcular.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwCwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T23:38:19.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\naole\\OneDrive\\MetyProgEst\\ejemplos\\Compras\\Calcularnota\\Program.cs",
+              "RelativeDocumentMoniker": "Calcularnota\\Program.cs",
+              "ToolTip": "C:\\Users\\naole\\OneDrive\\MetyProgEst\\ejemplos\\Compras\\Calcularnota\\Program.cs",
+              "RelativeToolTip": "Calcularnota\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwCEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T17:18:15.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Calcularnota.csproj",
               "DocumentMoniker": "C:\\Users\\naole\\OneDrive\\MetyProgEst\\ejemplos\\Compras\\Calcularnota\\Calcularnota.csproj",
               "RelativeDocumentMoniker": "Calcularnota\\Calcularnota.csproj",
@@ -49,13 +100,14 @@
               "RelativeDocumentMoniker": "Compras\\clases\\Factura.cs",
               "ToolTip": "C:\\Users\\naole\\OneDrive\\MetyProgEst\\ejemplos\\Compras\\Compras\\clases\\Factura.cs",
               "RelativeToolTip": "Compras\\clases\\Factura.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T13:39:28.278Z"
+              "WhenOpened": "2024-08-23T13:39:28.278Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Compras.csproj",
               "DocumentMoniker": "C:\\Users\\naole\\OneDrive\\MetyProgEst\\ejemplos\\Compras\\Compras\\Compras.csproj",
               "RelativeDocumentMoniker": "Compras\\Compras.csproj",
@@ -68,15 +120,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\naole\\OneDrive\\MetyProgEst\\ejemplos\\Compras\\Compras\\Program.cs",
               "RelativeDocumentMoniker": "Compras\\Program.cs",
               "ToolTip": "C:\\Users\\naole\\OneDrive\\MetyProgEst\\ejemplos\\Compras\\Compras\\Program.cs",
               "RelativeToolTip": "Compras\\Program.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwAwAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T13:33:39.281Z"
+              "WhenOpened": "2024-08-23T13:33:39.281Z",
+              "EditorCaption": ""
             }
           ]
         }

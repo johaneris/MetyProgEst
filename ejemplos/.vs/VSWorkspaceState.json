@@ -4,8 +4,9 @@
     "\\Compras",
     "\\Compras\\Calcularnota",
     "\\Compras\\Calcularnota\\clases",
-    "\\ejemplo.1"
+    "\\ejemplo.1",
+    "\\ejemplo.1\\ejemplo.1"
   ],
-  "SelectedNode": "\\ejemplo.1\\ejemplo.1.sln",
+  "SelectedNode": "\\ejemplo.1\\ejemplo.1\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

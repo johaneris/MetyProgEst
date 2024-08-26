@@ -6,10 +6,6 @@ namespace Calcularnota
     {
         static void Main(string[] args)
         {
-            string input = Console.ReadLine();
-            int numero_input = int.Parse(input);
-
-            Console.WriteLine(numero_input);
 
             //primer objeto
 
