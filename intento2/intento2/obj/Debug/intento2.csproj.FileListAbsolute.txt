@@ -1,0 +1,10 @@
+C:\Users\naole\OneDrive\MetyProgEst\intento2\intento2\bin\Debug\intento2.exe.config
+C:\Users\naole\OneDrive\MetyProgEst\intento2\intento2\bin\Debug\intento2.exe
+C:\Users\naole\OneDrive\MetyProgEst\intento2\intento2\bin\Debug\intento2.pdb
+C:\Users\naole\OneDrive\MetyProgEst\intento2\intento2\obj\Debug\intento2.csproj.AssemblyReference.cache
+C:\Users\naole\OneDrive\MetyProgEst\intento2\intento2\obj\Debug\intento2.Form1.resources
+C:\Users\naole\OneDrive\MetyProgEst\intento2\intento2\obj\Debug\intento2.Properties.Resources.resources
+C:\Users\naole\OneDrive\MetyProgEst\intento2\intento2\obj\Debug\intento2.csproj.GenerateResource.cache
+C:\Users\naole\OneDrive\MetyProgEst\intento2\intento2\obj\Debug\intento2.csproj.CoreCompileInputs.cache
+C:\Users\naole\OneDrive\MetyProgEst\intento2\intento2\obj\Debug\intento2.exe
+C:\Users\naole\OneDrive\MetyProgEst\intento2\intento2\obj\Debug\intento2.pdb
