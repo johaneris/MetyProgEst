@@ -17,8 +17,9 @@ namespace Estructuras
        struct Punto
         {
             //campos
-            public int X;
-            public int Y;
+            public int X { get; set; }  
+
+            public int Y { get; set; }
             //contructor
             public Punto(int x, int y)
             {
@@ -74,6 +75,7 @@ namespace Estructuras
         private void ShowData()
         {
             //origen de datos
+            dgvPuntos.DataSource = null;
             dgvPuntos.DataSource = puntos;
             dgvPuntos.Refresh();
         }

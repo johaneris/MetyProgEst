@@ -1,0 +1,124 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\naole\\OneDrive\\MetyProgEst\\HolaMundo2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72B0444A-F1D7-491C-BC46-88359CED5F7E}|Suma\\Suma.csproj|c:\\users\\naole\\onedrive\\metyprogest\\holamundo2\\suma\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{72B0444A-F1D7-491C-BC46-88359CED5F7E}|Suma\\Suma.csproj|solutionrelative:suma\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B0444A-F1D7-491C-BC46-88359CED5F7E}|Suma\\Suma.csproj|c:\\users\\naole\\onedrive\\metyprogest\\holamundo2\\suma\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72B0444A-F1D7-491C-BC46-88359CED5F7E}|Suma\\Suma.csproj|solutionrelative:suma\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B0444A-F1D7-491C-BC46-88359CED5F7E}|Suma\\Suma.csproj|c:\\users\\naole\\onedrive\\metyprogest\\holamundo2\\suma\\models\\suma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72B0444A-F1D7-491C-BC46-88359CED5F7E}|Suma\\Suma.csproj|solutionrelative:suma\\models\\suma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2286D5A6-023D-45B1-AA0C-C0130D06EE59}|Practica\\Practica.csproj|c:\\users\\naole\\onedrive\\metyprogest\\holamundo2\\practica\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2286D5A6-023D-45B1-AA0C-C0130D06EE59}|Practica\\Practica.csproj|solutionrelative:practica\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2286D5A6-023D-45B1-AA0C-C0130D06EE59}|Practica\\Practica.csproj|C:\\Users\\naole\\OneDrive\\MetyProgEst\\HolaMundo2\\practica\\models\\hola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2286D5A6-023D-45B1-AA0C-C0130D06EE59}|Practica\\Practica.csproj|solutionrelative:practica\\models\\hola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2286D5A6-023D-45B1-AA0C-C0130D06EE59}|Practica\\Practica.csproj|C:\\Users\\naole\\OneDrive\\MetyProgEst\\HolaMundo2\\practica\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2286D5A6-023D-45B1-AA0C-C0130D06EE59}|Practica\\Practica.csproj|solutionrelative:practica\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\naole\\OneDrive\\MetyProgEst\\HolaMundo2\\Practica\\Form1.cs",
+              "RelativeDocumentMoniker": "Practica\\Form1.cs",
+              "ToolTip": "C:\\Users\\naole\\OneDrive\\MetyProgEst\\HolaMundo2\\Practica\\Form1.cs",
+              "RelativeToolTip": "Practica\\Form1.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAhwBcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T21:05:45.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\naole\\OneDrive\\MetyProgEst\\HolaMundo2\\Suma\\Form1.cs",
+              "RelativeDocumentMoniker": "Suma\\Form1.cs",
+              "ToolTip": "C:\\Users\\naole\\OneDrive\\MetyProgEst\\HolaMundo2\\Suma\\Form1.cs",
+              "RelativeToolTip": "Suma\\Form1.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwCUAAACDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T21:03:39.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Suma.cs",
+              "DocumentMoniker": "C:\\Users\\naole\\OneDrive\\MetyProgEst\\HolaMundo2\\Suma\\models\\Suma.cs",
+              "RelativeDocumentMoniker": "Suma\\models\\Suma.cs",
+              "ToolTip": "C:\\Users\\naole\\OneDrive\\MetyProgEst\\HolaMundo2\\Suma\\models\\Suma.cs",
+              "RelativeToolTip": "Suma\\models\\Suma.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T20:45:48.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\naole\\OneDrive\\MetyProgEst\\HolaMundo2\\Suma\\Form1.cs",
+              "RelativeDocumentMoniker": "Suma\\Form1.cs",
+              "ToolTip": "C:\\Users\\naole\\OneDrive\\MetyProgEst\\HolaMundo2\\Suma\\Form1.cs [Design]",
+              "RelativeToolTip": "Suma\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T20:40:55.655Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Hola.cs",
+              "DocumentMoniker": "C:\\Users\\naole\\OneDrive\\MetyProgEst\\HolaMundo2\\Practica\\models\\Hola.cs",
+              "RelativeDocumentMoniker": "Practica\\models\\Hola.cs",
+              "ToolTip": "C:\\Users\\naole\\OneDrive\\MetyProgEst\\HolaMundo2\\Practica\\models\\Hola.cs",
+              "RelativeToolTip": "Practica\\models\\Hola.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T03:07:10.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\naole\\OneDrive\\MetyProgEst\\HolaMundo2\\Practica\\Form1.cs",
+              "RelativeDocumentMoniker": "Practica\\Form1.cs",
+              "ToolTip": "C:\\Users\\naole\\OneDrive\\MetyProgEst\\HolaMundo2\\Practica\\Form1.cs [Design]",
+              "RelativeToolTip": "Practica\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T03:06:28.386Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

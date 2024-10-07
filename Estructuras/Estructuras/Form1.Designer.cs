@@ -28,7 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle2 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle1 = new System.Windows.Forms.DataGridViewCellStyle();
             this.lblValorcdeX = new System.Windows.Forms.Label();
             this.tbX = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
@@ -82,15 +82,15 @@
             // 
             // dgvPuntos
             // 
-            dataGridViewCellStyle2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
-            dataGridViewCellStyle2.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.dgvPuntos.AlternatingRowsDefaultCellStyle = dataGridViewCellStyle2;
+            dataGridViewCellStyle1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
+            dataGridViewCellStyle1.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.dgvPuntos.AlternatingRowsDefaultCellStyle = dataGridViewCellStyle1;
             this.dgvPuntos.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dgvPuntos.Location = new System.Drawing.Point(475, 228);
+            this.dgvPuntos.Location = new System.Drawing.Point(312, 27);
             this.dgvPuntos.Name = "dgvPuntos";
             this.dgvPuntos.RowHeadersWidth = 51;
             this.dgvPuntos.RowTemplate.Height = 24;
-            this.dgvPuntos.Size = new System.Drawing.Size(227, 193);
+            this.dgvPuntos.Size = new System.Drawing.Size(461, 394);
             this.dgvPuntos.TabIndex = 5;
             // 
             // Form

@@ -1,0 +1,124 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\naole\\OneDrive\\MetyProgEst\\Tarea\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7BA653F9-98A0-4E01-A3CF-4A51DB26B447}|profe1\\profe1.csproj|c:\\users\\naole\\onedrive\\metyprogest\\tarea\\profe1\\models\\operaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BA653F9-98A0-4E01-A3CF-4A51DB26B447}|profe1\\profe1.csproj|solutionrelative:profe1\\models\\operaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BA653F9-98A0-4E01-A3CF-4A51DB26B447}|profe1\\profe1.csproj|c:\\users\\naole\\onedrive\\metyprogest\\tarea\\profe1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7BA653F9-98A0-4E01-A3CF-4A51DB26B447}|profe1\\profe1.csproj|solutionrelative:profe1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4610A21A-0E8E-4B82-8268-A0FCB31195F9}|Tarea\\Tarea.csproj|c:\\users\\naole\\onedrive\\metyprogest\\tarea\\tarea\\models\\registro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4610A21A-0E8E-4B82-8268-A0FCB31195F9}|Tarea\\Tarea.csproj|solutionrelative:tarea\\models\\registro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4610A21A-0E8E-4B82-8268-A0FCB31195F9}|Tarea\\Tarea.csproj|c:\\users\\naole\\onedrive\\metyprogest\\tarea\\tarea\\models\\regstrosoftware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4610A21A-0E8E-4B82-8268-A0FCB31195F9}|Tarea\\Tarea.csproj|solutionrelative:tarea\\models\\regstrosoftware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4610A21A-0E8E-4B82-8268-A0FCB31195F9}|Tarea\\Tarea.csproj|c:\\users\\naole\\onedrive\\metyprogest\\tarea\\tarea\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4610A21A-0E8E-4B82-8268-A0FCB31195F9}|Tarea\\Tarea.csproj|solutionrelative:tarea\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4610A21A-0E8E-4B82-8268-A0FCB31195F9}|Tarea\\Tarea.csproj|c:\\users\\naole\\onedrive\\metyprogest\\tarea\\tarea\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4610A21A-0E8E-4B82-8268-A0FCB31195F9}|Tarea\\Tarea.csproj|solutionrelative:tarea\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Operaciones.cs",
+              "DocumentMoniker": "C:\\Users\\naole\\OneDrive\\MetyProgEst\\Tarea\\profe1\\models\\Operaciones.cs",
+              "RelativeDocumentMoniker": "profe1\\models\\Operaciones.cs",
+              "ToolTip": "C:\\Users\\naole\\OneDrive\\MetyProgEst\\Tarea\\profe1\\models\\Operaciones.cs",
+              "RelativeToolTip": "profe1\\models\\Operaciones.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T14:08:22.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\naole\\OneDrive\\MetyProgEst\\Tarea\\profe1\\Form1.cs",
+              "RelativeDocumentMoniker": "profe1\\Form1.cs",
+              "ToolTip": "C:\\Users\\naole\\OneDrive\\MetyProgEst\\Tarea\\profe1\\Form1.cs [Design]",
+              "RelativeToolTip": "profe1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T14:02:56.232Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\naole\\OneDrive\\MetyProgEst\\Tarea\\Tarea\\Form1.cs",
+              "RelativeDocumentMoniker": "Tarea\\Form1.cs",
+              "ToolTip": "C:\\Users\\naole\\OneDrive\\MetyProgEst\\Tarea\\Tarea\\Form1.cs [Design]",
+              "RelativeToolTip": "Tarea\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T13:14:54.029Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegstroSoftware.cs",
+              "DocumentMoniker": "C:\\Users\\naole\\OneDrive\\MetyProgEst\\Tarea\\Tarea\\models\\RegstroSoftware.cs",
+              "RelativeDocumentMoniker": "Tarea\\models\\RegstroSoftware.cs",
+              "ToolTip": "C:\\Users\\naole\\OneDrive\\MetyProgEst\\Tarea\\Tarea\\models\\RegstroSoftware.cs",
+              "RelativeToolTip": "Tarea\\models\\RegstroSoftware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T13:18:59.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\naole\\OneDrive\\MetyProgEst\\Tarea\\Tarea\\Form1.cs",
+              "RelativeDocumentMoniker": "Tarea\\Form1.cs",
+              "ToolTip": "C:\\Users\\naole\\OneDrive\\MetyProgEst\\Tarea\\Tarea\\Form1.cs",
+              "RelativeToolTip": "Tarea\\Form1.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAswBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T13:23:22.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Registro.cs",
+              "DocumentMoniker": "C:\\Users\\naole\\OneDrive\\MetyProgEst\\Tarea\\Tarea\\models\\Registro.cs",
+              "RelativeDocumentMoniker": "Tarea\\models\\Registro.cs",
+              "ToolTip": "C:\\Users\\naole\\OneDrive\\MetyProgEst\\Tarea\\Tarea\\models\\Registro.cs",
+              "RelativeToolTip": "Tarea\\models\\Registro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T13:20:43.437Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
